@@ -1,2 +1,0 @@
-Project Console: https://console.firebase.google.com/project/instagram-clone-react-e927f/overview
-Hosting URL: https://instagram-clone-react-e927f.web.app 
