@@ -5,7 +5,6 @@
 /.pnp
 .pnp.js
 /src/firebase.js
-text.txt
 
 # testing
 /coverage
@@ -19,6 +18,7 @@ text.txt
 .env.development.local
 .env.test.local
 .env.production.local
+text.txt
 
 npm-debug.log*
 yarn-debug.log*
